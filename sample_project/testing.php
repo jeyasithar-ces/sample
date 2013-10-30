@@ -1,2 +1,4 @@
 <?php
-echo testing."Testing content change from the remote server. May work with local or not.";
+$testing = "";
+echo $testing."Testing content change from the remote server. May work with local or not.";
+
